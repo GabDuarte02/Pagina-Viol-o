@@ -6,6 +6,23 @@ h1, h2, p{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.tituloPrincipal{
-    
+.principal{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+table, td, th{
+    position: relative;
+    border: black solid 3px;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: grey;
+}
+
+.topicoTabela1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
